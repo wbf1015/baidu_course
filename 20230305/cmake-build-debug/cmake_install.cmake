@@ -1,4 +1,4 @@
-# Install script for directory: G:/code/baidu/20230305
+# Install script for directory: G:/code/baidu/baidu_course/20230305
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "G:/code/baidu/20230305/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "G:/code/baidu/baidu_course/20230305/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

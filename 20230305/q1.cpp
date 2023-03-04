@@ -9,7 +9,7 @@ void printVec(vector<int>&vi){
     cout<<endl;
 }
 
-int main( )
+int main1( )
 {
     int n;
     vector<int>vi;
